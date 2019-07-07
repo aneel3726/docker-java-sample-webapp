@@ -4,4 +4,4 @@ services:
     image: 'java-sample-webapp'
     build: .
     ports:
-      - "8080:8080"
+      - "9090:9090"
